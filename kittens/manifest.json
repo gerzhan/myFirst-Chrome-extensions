@@ -1,6 +1,6 @@
 {
-    "manifest_version": 2,
-    "name": "One-click Kittens",
+    "manifect_version": 2, 
+    "name": "Котята по клику",
     "description": "Расширение демонстрации действий браузера по отображению котят с сайта flickr.co.",
     "version": "1.0",
     "permissions": [
