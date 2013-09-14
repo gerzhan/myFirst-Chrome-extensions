@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "One-click Kittens",
+    "description": "Расширение демонстрации действий браузера по отображению котят с сайта flickr.co.",
+    "version": "1.0",
+    "permissions": [
+        "https://secure.flickr.com/"
+    ],
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_popup": "popup.html"
+    }
+}
