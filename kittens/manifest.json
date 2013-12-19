@@ -1,13 +1,15 @@
 {
     "manifest_version": 2,
-    "name": "One-click Kittens",
+    "name": "First Chrome Extensions",
     "description": "Расширение демонстрации действий браузера по отображению котят с сайта flickr",
-    "version": "1.0",
+    "version": "1.5",
     "permissions": [
-        "https://secure.flickr.com/"
+        "https://secure.flickr.com/",
+        "http://gerzhan.ru/"
     ],
     "browser_action": {
         "default_icon": "icon.png",
-        "default_popup": "popup.html"
+        "default_popup": "popup.html",
+        "default_title": "My First Chrome Extensions"
     }
 }
